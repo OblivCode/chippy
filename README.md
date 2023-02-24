@@ -1,6 +1,4 @@
 # chippy
-Chip8 emulator written in python using pygame
+Chip8 emulator written in python using pygame and numpy!
 
-Currently input isn't supported so not playable!
-No sound yet either.
-Speed of emulator and video updates can be changed in 'init.py'
+winsound for audio
