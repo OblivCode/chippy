@@ -41,14 +41,7 @@ key_mapping = [
 video_scale = 10
 clock_speed = 1000 #500mhz #delay
 refresh_rate = 30
-rom6 = "B:\Projects\Emulators\chip8games\snake.ch8"
-rom5 = "B:\Projects\Emulators\chip8games\RPS.ch8"
-rom4 = "B:\Projects\Emulators\chip8games\invaders.ch8"
-rom3 = "B:\\Projects\\Emulators\\chip8games\\flightrunner.ch8"
-rom2 = "B:\\Projects\\Emulators\\chip8games\\octojam1title.ch8"
-rom1 = "B:\\Projects\\Emulators\\chip8games\\glitchGhost.ch8"
-rom7 = "B:\\Projects\\Emulators\\chip8games\\test_opcode.ch8"
-rom_file = rom4
+rom_file = ""
 #code
 
 def EventHandler(event: pygame.event.Event):
